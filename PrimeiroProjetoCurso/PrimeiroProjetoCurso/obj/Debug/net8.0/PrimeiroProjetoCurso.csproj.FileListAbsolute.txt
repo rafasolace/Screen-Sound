@@ -1,0 +1,14 @@
+C:\Users\Rafael\source\repos\PrimeiroProjetoCurso\PrimeiroProjetoCurso\bin\Debug\net8.0\PrimeiroProjetoCurso.exe
+C:\Users\Rafael\source\repos\PrimeiroProjetoCurso\PrimeiroProjetoCurso\bin\Debug\net8.0\PrimeiroProjetoCurso.deps.json
+C:\Users\Rafael\source\repos\PrimeiroProjetoCurso\PrimeiroProjetoCurso\bin\Debug\net8.0\PrimeiroProjetoCurso.runtimeconfig.json
+C:\Users\Rafael\source\repos\PrimeiroProjetoCurso\PrimeiroProjetoCurso\bin\Debug\net8.0\PrimeiroProjetoCurso.dll
+C:\Users\Rafael\source\repos\PrimeiroProjetoCurso\PrimeiroProjetoCurso\bin\Debug\net8.0\PrimeiroProjetoCurso.pdb
+C:\Users\Rafael\source\repos\PrimeiroProjetoCurso\PrimeiroProjetoCurso\obj\Debug\net8.0\PrimeiroProjetoCurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\PrimeiroProjetoCurso\PrimeiroProjetoCurso\obj\Debug\net8.0\PrimeiroProjetoCurso.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\PrimeiroProjetoCurso\PrimeiroProjetoCurso\obj\Debug\net8.0\PrimeiroProjetoCurso.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\PrimeiroProjetoCurso\PrimeiroProjetoCurso\obj\Debug\net8.0\PrimeiroProjetoCurso.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\PrimeiroProjetoCurso\PrimeiroProjetoCurso\obj\Debug\net8.0\PrimeiroProjetoCurso.dll
+C:\Users\Rafael\source\repos\PrimeiroProjetoCurso\PrimeiroProjetoCurso\obj\Debug\net8.0\refint\PrimeiroProjetoCurso.dll
+C:\Users\Rafael\source\repos\PrimeiroProjetoCurso\PrimeiroProjetoCurso\obj\Debug\net8.0\PrimeiroProjetoCurso.pdb
+C:\Users\Rafael\source\repos\PrimeiroProjetoCurso\PrimeiroProjetoCurso\obj\Debug\net8.0\PrimeiroProjetoCurso.genruntimeconfig.cache
+C:\Users\Rafael\source\repos\PrimeiroProjetoCurso\PrimeiroProjetoCurso\obj\Debug\net8.0\ref\PrimeiroProjetoCurso.dll
